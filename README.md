@@ -12,23 +12,9 @@ See Dockerfile and requirements.txt.
 
 ## About the author
 - Hiroki Yamamoto
-- [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en), daisuke.kodaira03 AT gmail.com
+- [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en)
 - [Junji Kondoh](https://www.rs.tus.ac.jp/j.kondoh/english.html)
 
-## Structure of the code
-- main.py:  
-  **Input**   
-    Pseudo_SampleData.csv.  
-  **Output**  
-    1. QRresult.csv # Forecast result based on Quantile Regression  
-    2. LUBEresult.csv # Forecast result based on LUBE  
-    3. featureGainResult.csv # Result of feature gain  
-- plot.py: # under developing  
-  **Input**     
-  **Output**     
-    
-## How to run
-Run main.py with Pseudo_SampleData.csv.
 
 
 
